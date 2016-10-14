@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="ext_jars/extentreports-java-2.41.1.jar"/>
+	<classpathentry kind="lib" path="ext_jars/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="ext_jars/poi-3.12-beta1-20150228.jar"/>
+	<classpathentry kind="lib" path="ext_jars/poi-examples-3.12-beta1-20150228.jar"/>
+	<classpathentry kind="lib" path="ext_jars/poi-excelant-3.12-beta1-20150228.jar"/>
+	<classpathentry kind="lib" path="ext_jars/poi-ooxml-3.12-beta1-20150228.jar"/>
+	<classpathentry kind="lib" path="ext_jars/poi-ooxml-schemas-3.12-beta1-20150228.jar"/>
+	<classpathentry kind="lib" path="ext_jars/poi-scratchpad-3.12-beta1-20150228.jar"/>
+	<classpathentry kind="lib" path="ext_jars/selenium-java-2.48.2.jar"/>
+	<classpathentry kind="lib" path="ext_jars/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="ext_jars/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="ext_jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="ext_jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
